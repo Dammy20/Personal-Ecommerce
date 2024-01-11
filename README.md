@@ -45,8 +45,7 @@ Start the server
 Contributions are always welcome!
 Just raise an issue, we will discuss it.
 
-##Deloyment Link
-personal-ecommerce.vercel.app
+
 
 
 
